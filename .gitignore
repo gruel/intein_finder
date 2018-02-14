@@ -1,0 +1,8 @@
+# emacs
+*~
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# jupyter nbconvert
+index.html
