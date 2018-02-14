@@ -8,6 +8,7 @@ install:
   - pip install -r requirements.txt
 script:
   - mkdir build/
+  - jupyter kernelspec list
   - jupyter nbconvert --to html --execute intein_finder.ipynb --output build/index.html
 deploy:
   provider: pages
