@@ -4,7 +4,7 @@
 
 Detect putative inteins in a given genome.
 
-Source notebook: [intein_finder.py](intein_finder.py)
+Source notebook: [intein_finder.ipynb](intein_finder.ipynb)
 
 See the evaluated notebook at https://omsai.github.io/intein_finder/
 The notebook is evaluated and deployed by Travis a few minutes after
