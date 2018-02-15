@@ -1,6 +1,7 @@
 # Intein Finder
 
 [![Build Status](https://travis-ci.org/omsai/intein_finder.svg?branch=master)](https://travis-ci.org/omsai/intein_finder)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Detect putative inteins in a given genome.
 
